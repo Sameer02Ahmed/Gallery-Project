@@ -1,0 +1,98 @@
+.navbar{
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myurl{
+    display: flex;
+}
+
+.myhome{
+    display: flex;
+    margin: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.Home {
+    color: white;
+    text-decoration: none;
+}
+.About {
+    color: white;
+    text-decoration: none;
+}
+.Contact {
+    color: white;
+    text-decoration: none;
+}
+.Gallery {
+    color: white;
+    text-decoration: none;
+}
+.logo1{
+    text-decoration: none;
+    margin: 10px;
+    padding: 20px;
+}
+.aboutheading{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.aboutpara{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    margin: 5px;
+    padding: 20px;
+}
+.aboutheading1{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.aboutpara1{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    margin: 5px;
+    padding: 20px;
+}
+.mylogo1{
+    text-decoration: none;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+.footerurl{
+    margin: 40px;
+    padding: 20px;
+}
+.signature{
+    font-family: "Alex Brush", cursive;
+    text-align: center;
+}
+.aboutpara2{
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    margin: 5px;
+    padding: 20px;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.center:hover{
+    box-shadow: 2px 2px 2px 2px black;
+    opacity: 10px;
+}

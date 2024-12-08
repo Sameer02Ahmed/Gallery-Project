@@ -1,0 +1,170 @@
+.navbar{
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myurl{
+    display: flex;
+}
+
+.myhome{
+    display: flex;
+    margin: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.head1{
+    font-family: "Roboto", sans-serif;
+    font-size: 50px;
+    text-align: center;
+}
+.para1 {
+    font-family: "Poppins", sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+.button {
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border-style: none;
+    text-decoration: none;
+    text-align: center;
+}
+.sec {
+    text-align: center;
+    margin: 80px;
+    padding: 10px;
+}
+button:hover{
+    color: blueviolet;
+}
+.head2 {
+    text-align: center;
+    margin: 120px;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.img {
+    margin: 120px;
+    cursor: pointer;
+}
+.img1:hover {
+opacity: 0.6;
+}
+.img2:hover {
+opacity: 0.6;
+}
+.img3:hover {
+opacity: 0.6;
+}
+.img4:hover {
+opacity: 0.6;
+}
+.img5:hover {
+opacity: 0.6;
+}
+.img6:hover {
+opacity: 0.6;
+}
+.img1 {
+    border-style: groove;
+}
+.img2 {
+    border-style: groove;
+}
+.img3 {
+    border-style: groove;
+}
+.img4 {
+    border-style: groove;
+}
+.img5 {
+    border-style: groove;
+}
+.img6 {
+    border-style: groove;
+}
+.sec1 {
+    background-color: black;
+    padding-left: 80px;
+}
+.Home {
+    color: white;
+    text-decoration: none;
+}
+.About {
+    color: white;
+    text-decoration: none;
+}
+.Contact {
+    color: white;
+    text-decoration: none;
+}
+.Gallery {
+    color: white;
+    text-decoration: none;
+}
+.logo1{
+    text-decoration: none;
+    margin: 10px;
+    padding: 20px;
+}
+.mylogo1{
+    text-decoration: none;
+}
+.footer {
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+.footerurl{
+    margin: 40px;
+    padding: 20px;
+}
+.head3 {
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.para2 {
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+.list {
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    display: flex;
+    text-align: center;
+}
+.para3 {
+    font-family: "Poppins", sans-serif;
+    padding: 10px;
+    font-size: 18px;
+    text-align: center;
+}
+.head4 {
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+.head5 {
+    text-align: center;
+    font-size: 35px;
+    font-family: Arial, Helvetica, sans-serif; 
+}
+

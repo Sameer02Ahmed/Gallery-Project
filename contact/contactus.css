@@ -1,0 +1,98 @@
+.navbar{
+    background-color: rgb(43, 41, 41);
+    color: whitesmoke;
+   padding-left: 15px;
+   padding-right: 15px;
+  
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.myurl{
+    display: flex;
+}
+
+.myhome{
+    display: flex;
+    margin: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+.Home {
+    color: white;
+    text-decoration: none;
+}
+.About {
+    color: white;
+    text-decoration: none;
+}
+.Contact {
+    color: white;
+    text-decoration: none;
+}
+.Gallery {
+    color: white;
+    text-decoration: none;
+}
+.logo1{
+    text-decoration: none;
+    margin: 10px;
+    padding: 20px;
+}
+.mylogo1{
+    text-decoration: none;
+}
+.footer{
+    background-color: black;
+    width: 100%;
+    display: flex;
+}
+.footerurl{
+    margin: 40px;
+    padding: 20px;
+}
+.contactheading1{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 40px;
+}
+.contactheading2{
+    font-family: "Roboto", sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+.contactpara{
+    text-align: justify;
+    font-family: "Poppins", sans-serif;
+    margin: 5px;
+    padding: 20px;
+}
+input, textarea{
+    width: 98%;
+    padding: 5px;
+    margin: 3px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.btn {
+    width: 90px;
+    height: 50px;
+    background-color: black;
+    color: white;
+    padding: 6px;
+    margin: 5px;
+}
+select{
+    width: 99%;
+    padding: 5px;
+    margin: 3px;
+    border: 2px solid;
+    border-radius: 5px;
+}
+.btn:hover{
+    background-color: blue;
+}
